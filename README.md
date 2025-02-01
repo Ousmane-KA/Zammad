@@ -98,7 +98,13 @@ Zammad propose trois types de rôles principaux :
 On peut configurer ces rôles en fonction des utilisateurs qu'on va ajouter dans ton environnement Zammad.
 
 ---
-Voir la documentation pdf admin-docs-zammad-org.pdf pour personnaliser l'outils.
+
+Pour apporter des modifications et personnaliser l'outil, vous pouvez consulter la documentation ci-dessous :
+
+```bash
+https://github.com/zammad/zammad-admin-documentation
+
+```
 ---
 
 Ce déploiement est réalisé en local par Ousmane KA, dans les mêmes conditions reproductibles en environnement de production.
